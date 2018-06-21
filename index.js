@@ -1,0 +1,2 @@
+const laboratoria
+let estudiantes
